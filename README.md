@@ -1,4 +1,4 @@
-# anomaly_detection
+# Anomaly detection
 Credit Card Fraud Detection Project
 
 Business Problem
